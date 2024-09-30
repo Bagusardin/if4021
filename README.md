@@ -10,7 +10,7 @@ Repositori dibuat untuk mendokumentasikan hasil eksperimen pada Matakuliah Multi
 1. Clone repositori ini
 
    ```bash
-   git clone <url>
+   git clone https://github.com/Bagusardin/if4021.git
    ```
 
 2. Masuk kedalam direktori
