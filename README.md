@@ -26,14 +26,9 @@ Repositori dibuat untuk mendokumentasikan hasil eksperimen pada Matakuliah Multi
    python3 -m venv env
    ```
 4. Aktivasi virtual environment
-   - Windows
-     ```bash
-     env\Scripts\activate.bat
-     ```
-   - Other (Mac, Linux)
-     ```bash
-     source env\Scripts\activate.bat
-     ```
+   ```bash
+   env\Scripts\activate.bat
+   ```
 5. Instalasi package
    ```bash
    pip install -r requirements.txt
