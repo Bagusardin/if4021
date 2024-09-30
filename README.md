@@ -15,7 +15,7 @@ Repositori dibuat untuk mendokumentasikan hasil eksperimen pada Matakuliah Multi
 
 2. Masuk kedalam direktori
    ```bash
-   cd if4021-handson
+   cd if4021
    ```
 3. Inisialisasi lingkungan virtual environment
    ```bash
